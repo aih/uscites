@@ -1,0 +1,65 @@
+#    Search and Replace versions of RegEx
+#Add classes in keeping with nomenclature of Thomas XML, <external-xref legal-doc="usc" parsable-cite="usc/42/1385ww">:
+#class = 'public-law-cite', 'usc-cite', 'usc-chapter-cite', etc.
+
+
+# Titles other than 26; (lowercase title refers to Pub. L.)
+\sof\s([Tt]itle\s)(\d+\w*)#@@ref-title-\2@@ of \1<a class="usc-cite code-title" href="/laws/target/@ref-title@/\2/">\2</a>
+ 
+# Acts referred to without title, likely connects to a prior named reference 
+\sof\s(such|the|that)\s((\d{4})?\s?(Act|Code))#@@ref-unnamedact-\2@@ of \1 <a class="Act-cite" href="/laws/target/@ref-unnamedact-\2@/">\2</a>
+
+# Hack for problems w. Named Act parsing
+#(([A-Z]\w+|members|activities|behalf|copy|)\s\of\s)the#\1@@the
+(([A-Za-z]{4,})\s\of\s)the#\1@@the
+
+# Named Acts
+\sof\s(such|the|that)\s((?:\d{4}\s)?(?:[A-Za-]\w+'?\w+,?\s)+(?:Act|Code)[,.\)]{,2}(\sof\s\d{4})?)#@@ref-namedact-\2@@ of \1 <a class="Act-cite Act-title" href="/laws/target/@ref-namedact-\2@/">\2</a>
+
+
+# Replace references to unnamed Acts with the Acts they refer to, where possible
+(target\/@ref-namedact-)(.*?)(@\/.{,400}?)(@@ref-unnamedact.*?@@)(.{,100})(@ref-unnamedact-.*?@)\/#\1\2\3@@ref-namedact-\2@@\5@ref-namedact-\2@/
+
+
+# Replace references to the 1986 Act with the correct reference; 
+# This can be done more systematically for other dated acts (e.g. the 1954 Act) 
+@ref-unnamedact-\s?1986\sCode#@ref-namedact-Internal Revenue Code of 1986
+
+# Public Laws
+\sof\sPub\.\sL\.\s(\d+)&ndash;(\d+)#@@ref-PL-\1-\2@@ of Pub. L. <a class="public-law-cite" href="/laws/target/@ref-PL-\1-\2@/">\1-\2</a>
+
+# Public Law
+\sof\sPublic\sLaw\s(\d+)&ndash;(\d+)#@@ref-PL-\1-\2@@ of Public Law <a class="public-law-cite" href="/laws/target/@ref-PL-\1-\2@/">\1-\2</a>
+
+# 'of this title'
+\sof\sthis\stitle#@@ref-title-this@@ of <a href="/laws/target/ref-title-this/">this title</a>
+
+# 'of this section/chapter'
+\sof\sthis\s(section|chapter|subchapter)#@@ref-\1-this@@ of this <a href="/laws/target/@ref-title-this@/ref-\1-this@/">\1</a>
+
+# 'of this section/chapter'
+\sof\s(the|such|that)\s(section|chapter|subchapter|title)#@@ref-\2@@ of \1 <a href="/laws/target/@ref-title@/ref-\2/">\2</a>
+
+
+# USC citation
+(\d+)\sU\.S\.C\.\s(\d\w*(?:\(\w+\))*)#<a class="usc-cite" href="/laws/target/\1/">\1</a> U.S.C. <a class="sec" href="/laws/target/\1/\2">\2</a>
+
+#TODO:Sections of the form 23.6(a) are not linked
+
+# Sections in sequence: "sections 23, 5125, and 15 of"
+(\s[Ss]ections\s\d.*?(?:and|or)\s(?:\d+\w*(?:\(\w+\))*(-|–)?\d*)(?:\sto\s\d+\w?)?)#@@@\1@@@
+
+(\s[Ss]ection\s\d+\sor\s\d+)#@@@\1@@@
+
+(\s[Ss]ections((\s\d+\w*(?:\(\w+\))*-?\d*)(?:\sto\s\d+)?,?){2,})#@@@\1@@@
+
+# References not captured above--do not link
+([^@]{2}[Ss]ection\s)(\d+\w*(?:\(\w+\))*(&mdash;|&ndash;|-|–)?\d*\sof)#\1@@\2
+
+# Sections alone
+# old version: ([^@]{2}[Ss]ection\s)(\d+\w*(?:\(\w+\))*(&mdash;|&ndash;|-)?\d*)#\1<a href="/laws/target/@of-ref@/\2" class="sec">\2</a>
+#([^@]{2}[Ss]ection\s)(\d+\w*(?:\(\w+\))*(&mdash;|&ndash;|-|–)?\d*(?:\(\w+\))*)#\1<a href="/laws/target/@of-ref@/\2" class="sec">\2</a>
+([^@]{2}[Ss]ection\s)(\d+\w*(?:\(\w+\))*(&mdash;|&ndash;|-|–)?\d*)#\1<a href="/laws/target/@of-ref@/\2" class="sec">\2</a>
+
+# Text between section (@of-ref@) and the nearest reference (@@@ref-...@@); leave the ref- between @@
+(@of-ref@)([^<]*<\/a>)@(@ref-[^@]*@)@#\3\2 

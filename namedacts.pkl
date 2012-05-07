@@ -1,0 +1,664 @@
+(lp0
+S'1999 Emergency Supplemental Appropriations Act'
+p1
+aS'2003 International Energy Conservation Code'
+p2
+aS'Administrative Expenses Act of 1946'
+p3
+aS'Agricultural Act of 1949'
+p4
+aS'Agricultural Credit Act of 1978'
+p5
+aS'Agricultural Marketing Act'
+p6
+aS'Air Transportation Safety and System Stabilization Act'
+p7
+aS'Airport Improvement Program Temporary Extension Act of 1994'
+p8
+aS'Airport and Airway Development Act'
+p9
+aS'Airport and Airway Development Act of 1970'
+p10
+aS'Airport and Airway Extension Act of 2010'
+p11
+aS'Airport and Airway Improvement Act of 1982'
+p12
+aS'Airport and Airway Revenue Act of 1970'
+p13
+aS'Airport and Airway Safety and Capacity Expansion Act of 1987'
+p14
+aS'Airport and Airway Safety, Capacity, Noise Improvement, and Intermodal Transportation Act of 1992'
+p15
+aS'Airport and Airway Trust Fund Tax Reinstatement Act of 1997'
+p16
+aS'Alaska Native Claims Settlement Act'
+p17
+aS'American Jobs Creation Act of 2004'
+p18
+aS'American Recovery and Reinvestment Act of 2009'
+p19
+aS'American Recovery and Reinvestment Tax Act of 2009'
+p20
+aS'Arms Export Control Act'
+p21
+aS'Atomic Energy Community Act of 1955'
+p22
+aS'Aviation Safety and Capacity Expansion Act of 1990'
+p23
+aS'Aviation Safety and Noise Abatement Act of 1979'
+p24
+aS'Balanced Budget Act of 1997'
+p25
+aS'Balanced Budget and Emergency Deficit Control Act'
+p26
+aS'Balanced Budget and Emergency Deficit Control Act of 1985'
+p27
+aS'Bank Holding Company Act of 1956'
+p28
+aS'Bank Holding Company Tax Act of 1976'
+p29
+aS'Bankruptcy Act'
+p30
+aS'Bankruptcy Tax Act of 1980'
+p31
+aS'Bill Emerson Good Samaritan Food Donation Act'
+p32
+aS'Black Lung Benefits Act'
+p33
+aS'Black Lung Benefits Revenue Act of 1977'
+p34
+aS'Black Lung Benefits Revenue Act of 1981'
+p35
+aS'Budget and Accounting Procedures Act of 1950'
+p36
+aS'Career Compensation Act of 1949'
+p37
+aS'Caribbean Basin Economic Recovery Act'
+p38
+aS'Central Intelligence Agency Act of 1949'
+p39
+aS'Central Intelligence Agency Retirement Act'
+p40
+aS'Central Intelligence Agency Retirement Act of 1964'
+p41
+aS"Children's Health Insurance Program Reauthorization Act of 2009"
+p42
+aS'Civil Rights Act of 1964'
+p43
+aS'Civil Rights Act of 1991'
+p44
+aS'Civil Service Retirement Act'
+p45
+aS'Claims Resolution Act of 2010'
+p46
+aS'Clayton Act'
+p47
+aS'Clean Air Act'
+p48
+aS'Clean Water Act'
+p49
+aS'Coastal Wetlands Planning, Protection and Restoration Act'
+p50
+aS'Commodity Exchange Act'
+p51
+aS'Commodity Futures Modernization Act of 2000'
+p52
+aS'Communications Satellite Act of 1962'
+p53
+aS'Community Development Banking and Financial Institutions Act of 1994'
+p54
+aS'Community Renewal Tax Relief Act of 2000'
+p55
+aS'Comprehensive Environmental Response, Compensation, and Liability Act of 1980'
+p56
+aS'Comprehensive Oil Pollution Liability and Compensation Act'
+p57
+aS'Congressional Accountability Act of 1995'
+p58
+aS'Consolidated Farm and Rural Development Act'
+p59
+aS'Consolidated Omnibus Budget Reconciliation Act of 1985'
+p60
+aS'Continuing Extension Act of 2010'
+p61
+aS'Controlled Substances Act'
+p62
+aS'Cooperative Forestry Assistance Act of 1978'
+p63
+aS'Corporate Estimated Tax Shift Act of 2009'
+p64
+aS'Creating Small Business Jobs Act of 2010'
+p65
+aS'Crude Oil Windfall Profit Tax Act of 1980'
+p66
+aS'Deepwater Port Act of 1974'
+p67
+aS'Defense Production Act of 1950'
+p68
+aS'Deficit Reduction Act of 1984'
+p69
+aS'Deficit Reduction Act of 2005'
+p70
+aS'Demonstration Cities and Metropolitan Development Act of 1966'
+p71
+aS'Disaster Assistance Act of 1988'
+p72
+aS'Disaster Relief Act of 1970'
+p73
+aS'Economic Growth and Tax Relief Reconciliation Act of 2001'
+p74
+aS'Economic Recovery Tax Act of 1981'
+p75
+aS'Economic Stimulus Act of 2008'
+p76
+aS'Economic Tax Act of 1981'
+p77
+aS'Electronic Fund Transfer Act'
+p78
+aS'Elementary and Secondary Education Act of 1965'
+p79
+aS'Emergency Compensation Act of 1974'
+p80
+aS'Emergency Economic Stabilization Act of 2008'
+p81
+aS'Emergency Insured Student Loan Act of 1969'
+p82
+aS'Emergency Jobs and Unemployment Assistance Act of 1974'
+p83
+aS'Emergency Unemployment Compensation Act of 1974'
+p84
+aS'Emergency Unemployment Compensation Act of 1991'
+p85
+aS'Employee Requirement Income Security Act of 1974'
+p86
+aS'Employee Retirement Income Security Act of 1974'
+p87
+aS'Employee Retirement Security Act of 1974'
+p88
+aS'Employment Security Act of 1960'
+p89
+aS'Energy Improvement and Extension Act of 2008'
+p90
+aS'Energy Policy Act of 1992'
+p91
+aS'Energy Policy Act of 2005'
+p92
+aS'Energy Tax Act of 1978'
+p93
+aS'Energy Tax Incentives Act of 2005'
+p94
+aS'Excise Tax Reduction Act of 1965'
+p95
+aS'Excise Tax Technical Changes Act of 1958'
+p96
+aS'Export Administration Act of 1969'
+p97
+aS'Export Administration Act of 1979'
+p98
+aS'Fair Credit Reporting Act'
+p99
+aS'Fair Debt Collection Practices Act'
+p100
+aS'Fair Housing Act'
+p101
+aS'Fair Labor Standards Act of 1938'
+p102
+aS'Family Support Act of 1988'
+p103
+aS'Family and Medical Leave Act of 1993'
+p104
+aS'Farm Credit Act of 1959'
+p105
+aS'Federal Alcohol Administration Act'
+p106
+aS'Federal Claims Collection Act of 1966'
+p107
+aS'Federal Credit Union Act'
+p108
+aS'Federal Crop Insurance Act'
+p109
+aS'Federal Deposit Insurance Act'
+p110
+aS'Federal Election Campaign Act of 1971'
+p111
+aS'Federal Food, Drug, and Cosmetic Act'
+p112
+aS'Federal Home Loan Bank Act'
+p113
+aS'Federal Insecticide, Fungicide, and Rodenticide Act'
+p114
+aS'Federal Mine Safety and Health Act of 1977'
+p115
+aS'Federal National Mortgage Association Charter Act'
+p116
+aS'Federal Power Act'
+p117
+aS'Federal Reports Elimination and Sunset Act of 1995'
+p118
+aS'Federal Reserve Act'
+p119
+aS'Federal Salary Act of 1967'
+p120
+aS'Federal Supplemental Compensation Act of 1982'
+p121
+aS'Federal Trade Commission Act'
+p122
+aS'Federal Transit Act'
+p123
+aS'Federal Unemployment Tax Act'
+p124
+aS'Federal Water Pollution Control Act'
+p125
+aS'Financial Institutions Reform, Recovery, and Enforcement Act of 1989'
+p126
+aS'Food Security Act of 1985'
+p127
+aS'Food Stamp Act of 1977'
+p128
+aS'Food and Nutrition Act of 2008'
+p129
+aS'Food, Conservation, and Energy Act of 2008'
+p130
+aS'Foreign Earned Income Act of 1978'
+p131
+aS'Foreign Relations Authorization Act'
+p132
+aS'Foreign Service Act of 1946'
+p133
+aS'Foreign Service Act of 1980'
+p134
+aS'Gulf Opportunity Zone Act of 2005'
+p135
+aS'Harbor Maintenance Revenue Act of 1986'
+p136
+aS'Hazardous Substance Response Act of 1980'
+p137
+aS'Hazardous Substance Response Revenue Act of 1980'
+p138
+aS'Hazardous Substances Response Revenue Act of 1980'
+p139
+aS'Health Care Portability and Accountability Act of 1996'
+p140
+aS'Health Insurance Portability and Accountability Act of 1996'
+p141
+aS'Heartland Disaster Tax Relief Act of 2008'
+p142
+aS'Heroes Earnings Assistance and Relief Tax Act of 2008'
+p143
+aS'Higher Education Act of 1965'
+p144
+aS'Highway Revenue Act of 1956'
+p145
+aS'Highway Revenue Act of 1982'
+p146
+aS'Homeland Security Act of 2002'
+p147
+aS'Homeowners Protection Act of 1998'
+p148
+aS'Housing Act'
+p149
+aS'Housing Act of 1949'
+p150
+aS'Housing Assistance Tax Act of 2008'
+p151
+aS'Housing and Community Development Act of 1974'
+p152
+aS'Housing and Urban Development Act of 1965'
+p153
+aS'Housing and Urban Development Act of 1968'
+p154
+aS'Immigration and Nationality Act'
+p155
+aS'Indian Child Welfare Act of 1978'
+p156
+aS'Indian Financing Act of 1974'
+p157
+aS'Indian Gaming Regulatory Act'
+p158
+aS'Indian Health Care Improvement Act'
+p159
+aS'Indian Regulatory Act'
+p160
+aS'Inland Waterways Revenue Act of 1978'
+p161
+aS'Inspector General Act of 1978'
+p162
+aS'Intermodal Surface Transportation Efficiency Act of 1991'
+p163
+aS'Internal Revenue Act of 1939'
+p164
+aS'Internal Revenue Act of 1942'
+p165
+aS'Internal Revenue Act of 1954'
+p166
+aS'Internal Revenue Code'
+p167
+aS'Internal Revenue Code of 1939'
+p168
+aS'Internal Revenue Code of 1954'
+p169
+aS'Internal Revenue Code of 1986'
+p170
+aS'Internal Revenue Service Restructuring and Reform Act of 1998'
+p171
+aS'Internal Security Act of 1950'
+p172
+aS'International Emergency Economic Powers Act'
+p173
+aS'International Organizations Immunities Act'
+p174
+aS'International Security Assistance and Arms Export Control Act of 1976'
+p175
+aS'Interstate Commerce Act'
+p176
+aS'Investment Advisers Act of 1940'
+p177
+aS'Investment Company Act of 1940'
+p178
+aS'Iowa Code'
+p179
+aS'Job Creation and Worker Assistance Act of 2002'
+p180
+aS'Job Training Partnership Act'
+p181
+aS'Jobs and Growth Tax Relief Reconciliation Act of 2003'
+p182
+aS'Jobs and Growth Tax Relief and Reconciliation Act of 2003'
+p183
+aS'Labor Management Relations Act'
+p184
+aS'Land and Water Conservation Fund Act of 1965'
+p185
+aS'Library Services and Technology Act'
+p186
+aS'Life Insurance Tax Act of 1984'
+p187
+aS'Medicare Prescription Drug, Improvement, and Modernization Act of 2003'
+p188
+aS'Merchant Marine Act'
+p189
+aS'Merchant Marine Act of 1936'
+p190
+aS'Merchant Ship Sales Act of 1946'
+p191
+aS'Migration and Refugee Assistance Act of 1962'
+p192
+aS'Miscellaneous Revenue Act of 1982'
+p193
+aS'Mortgage Forgiveness Debt Relief Act of 2007'
+p194
+aS'Mortgage Subsidy Bond Tax Act of 1980'
+p195
+aS'Motor Vehicle Information and Cost Savings Act'
+p196
+aS'Multiemployer Pension Plan Amendments Act of 1980'
+p197
+aS'Mutual Security Act of 1954'
+p198
+aS'National Defense Authorization Act'
+p199
+aS'National Firearms Act'
+p200
+aS'National Firearms Act of 1968'
+p201
+aS'National Housing Act'
+p202
+aS'Natural Gas Policy Act of 1978'
+p203
+aS'Oil Pollution Act of 1990'
+p204
+aS'Omnibus Budget Reconciliation Act of 1986'
+p205
+aS'Omnibus Budget Reconciliation Act of 1987'
+p206
+aS'Omnibus Budget Reconciliation Act of 1989'
+p207
+aS'Omnibus Budget Reconciliation Act of 1990'
+p208
+aS'Omnibus Budget Reconciliation Act of 1993'
+p209
+aS'Omnibus Consolidated and Emergency Supplemental Appropriations Act'
+p210
+aS'Omnibus Crime Control and Safe Streets Act of 1968'
+p211
+aS'Omnibus Reconciliation Act of 1980'
+p212
+aS'Organic Act'
+p213
+aS'Outer Continental Shelf Lands Act'
+p214
+aS'Overseas Differentials and Allowances Act'
+p215
+aS'Patient Protection and Affordable Care Act'
+p216
+aS'Patient Protection and Affordable Care Act of 2009'
+p217
+aS'Peace Corps Act'
+p218
+aS'Pension Protection Act'
+p219
+aS'Pension Protection Act of 2006'
+p220
+aS'Personal Responsibility and Work Opportunity Reconciliation Act of 1996'
+p221
+aS'Presidential Election Campaign Fund Act of 1966'
+p222
+aS'Public Health Service Act'
+p223
+aS'Public Health Services Act'
+p224
+aS'Public Utility Holding Company Act'
+p225
+aS'Public Utility Regulatory Policies Act of 1978'
+p226
+aS'Public Utility Regulatory Policy Act of 1978'
+p227
+aS'Rail Passenger Service Act of 1970'
+p228
+aS'Railroad Retirement Act'
+p229
+aS'Railroad Retirement Act of 1937'
+p230
+aS'Railroad Retirement Act of 1974'
+p231
+aS'Railroad Unemployment Insurance Act'
+p232
+aS'Railway Labor Act'
+p233
+aS'Reclamation Reform Act of 1982'
+p234
+aS'Recreational Boating Fund Act'
+p235
+aS'Reform Act'
+p236
+aS'Rehabilitation Act of 1973'
+p237
+aS'Retirement Equity Act of 1984'
+p238
+aS'Retirement Protection Act of 1994'
+p239
+aS'Revenue Act of 1918'
+p240
+aS'Revenue Act of 1926'
+p241
+aS'Revenue Act of 1928'
+p242
+aS'Revenue Act of 1932'
+p243
+aS'Revenue Act of 1934'
+p244
+aS'Revenue Act of 1962'
+p245
+aS'Revenue Act of 1964'
+p246
+aS'Revenue Act of 1971'
+p247
+aS'Revenue Act of 1978'
+p248
+aS'Revenue Act of 1987'
+p249
+aS'Revenue Adjustment Act of 1975'
+p250
+aS'Revenue Reconciliation Act of 1987'
+p251
+aS'Revenue Reconciliation Act of 1989'
+p252
+aS'Revenue Reconciliation Act of 1990'
+p253
+aS'Revenue Reconciliation Act of 1993'
+p254
+aS'Revenue and Expenditure Control Act of 1968'
+p255
+aS'Revised Organic Act'
+p256
+aS'Riegle Community Development and Regulatory Improvement Act of 1994'
+p257
+aS'Rivers and Harbors Act'
+p258
+aS'Rural Electrification Act of 1936'
+p259
+aS'Safe, Accountable, Flexible, Efficient Transportation Equity Act'
+p260
+aS'Second Liberty Bond Act'
+p261
+aS'Securities Act of 1933'
+p262
+aS'Securities Exchange Act of 1934'
+p263
+aS'Securities and Exchange Act of 1934'
+p264
+aS'Servicemembers Civil Relief Act'
+p265
+aS'Small Business Act'
+p266
+aS'Small Business Investment Act of 1958'
+p267
+aS'Small Business Job Protection Act of 1996'
+p268
+aS'Social Security Act'
+p269
+aS'Soil Conservation and Domestic Allotment Act'
+p270
+aS'Soil Conservation and Domestic Policy Act'
+p271
+aS'Solid Waste Disposal Act'
+p272
+aS'Sportfishing and Recreational Boating Safety Amendments Act of 2005'
+p273
+aS'State Department Basic Authorities Act of 1956'
+p274
+aS'Steel Import Stabilization Act'
+p275
+aS'Subversive Act'
+p276
+aS'Superfund Amendments and Reauthorization Act of 1986'
+p277
+aS'Superfund Revenue Act of 1986'
+p278
+aS'Supplemental Appropriations Act'
+p279
+aS'Surface Mining Control and Reclamation Act of 1977'
+p280
+aS'Surface Transportation Assistance Act of 1982'
+p281
+aS'Surface Transportation Extension Act of 2010'
+p282
+aS'Surface Transportation and Uniform Relocation Assistance Act of 1987'
+p283
+aS'Tariff Act'
+p284
+aS'Tariff Act of 1930'
+p285
+aS'Tax Equity and Fiscal Responsibility Act of 1982'
+p286
+aS'Tax Extenders and Alternative Minimum Tax Relief Act of 2008'
+p287
+aS'Tax Increase Prevention and Reconciliation Act of 2005'
+p288
+aS'Tax Reduction Act of 1975'
+p289
+aS'Tax Reduction Act of 1976'
+p290
+aS'Tax Reduction and Simplification Act of 1977'
+p291
+aS'Tax Reform Act of 1969'
+p292
+aS'Tax Reform Act of 1976'
+p293
+aS'Tax Reform Act of 1984'
+p294
+aS'Tax Reform Act of 1986'
+p295
+aS'Tax Relief Extension Act of 1999'
+p296
+aS'Tax Relief and Health Care Act of 2006'
+p297
+aS'Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010'
+p298
+aS'Tax and Trade Relief Extension Act of 1998'
+p299
+aS'Taxpayer Relief Act of 1997'
+p300
+aS'Technical Amendments Act of 1958'
+p301
+aS'Technical Corrections Act of 1982'
+p302
+aS'Technical Corrections Act of 1984'
+p303
+aS'Technical and Miscellaneous Revenue Act of 1988'
+p304
+aS'Temporary Extended Unemployment Compensation Act of 2002'
+p305
+aS'Temporary Extension Act of 2010'
+p306
+aS'Temporary Unemployment Compensation Act of 1958'
+p307
+aS'Texas Insurance Code'
+p308
+aS'Trade Act of 1974'
+p309
+aS'Trade Act of 2002'
+p310
+aS'Trade Expansion Act of 1962'
+p311
+aS'Trade and Development Act of 2000'
+p312
+aS'Transportation Equity Act'
+p313
+aS'Treasury Appropriations Act'
+p314
+aS'Treasury, Postal Service, and General Government Appropriations Act'
+p315
+aS'Unemployment Compensation Extension Act of 2008'
+p316
+aS'Unemployment Compensation Extension Act of 2010'
+p317
+aS'United Nations Participation Act of 1945'
+p318
+aS'United States Code'
+p319
+aS'United States Housing Act of 1937'
+p320
+aS'Urban Mass Transportation Act of 1964'
+p321
+aS'Uruguay Round Agreements Act'
+p322
+aS'Viatical Settlements Model Act'
+p323
+aS'Virgin Islands Code'
+p324
+aS'Water Resources Development Act of 1986'
+p325
+aS'Water Resources Development Act of 1996'
+p326
+aS'Wildlife and Sport Fish Restoration Programs Improvement Act of 2000'
+p327
+aS'Worker, Homeownership, and Business Assistance Act of 2009'
+p328
+aS'Worker, Retiree, and Employer Recovery Act of 2008'
+p329
+aS'Workforce Investment Act of 1998'
+p330
+aS'Working Families Tax Relief Act of 2004'
+p331
+a.
